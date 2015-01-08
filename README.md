@@ -5,7 +5,7 @@ This is a simple(not very optimised) library to use Shift registers on a raspber
 
 All pin numbers are based on the GPIO.BCM numbering scheme.
 
-All Values are autamitically reversed when using the `write` function.
+All Values are automatically reversed when using the `write` function.
 
 Basic Usage
 -----------
@@ -45,3 +45,7 @@ shift.push_bit(0)
 shift.push_bit(1)
 shift.write_latch()
 ```
+
+Author
+------
+Shrikant Patnaik
