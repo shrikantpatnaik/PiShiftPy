@@ -8,6 +8,8 @@ All pin numbers are based on the GPIO.BCM numbering scheme.
 
 All Values are automatically reversed when using the ``write`` function.
 
+You will also need the RPi.GPIO module available.
+
 Basic Usage
 -----------
 

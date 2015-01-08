@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+PiShiftPy.py
+README.rst
+setup.cfg
+setup.py
+PiShiftPy.egg-info/PKG-INFO
+PiShiftPy.egg-info/SOURCES.txt
+PiShiftPy.egg-info/dependency_links.txt
+PiShiftPy.egg-info/pbr.json
+PiShiftPy.egg-info/top_level.txt
